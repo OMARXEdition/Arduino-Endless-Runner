@@ -3,7 +3,7 @@
 An embedded systems project featuring a real-time side-scrolling game on a 16x2 LCD. This project utilizes hardware interrupts for responsive gameplay and custom CGRAM character generation.
 
 ### 1. Initialization State
-![Start Screen](Assets/Screenshot%202026-04-28%20061730.png)
+![Start Screen](Assets/Screenshot%202026-04-28%20062249.png)
 *Figure 1: The Idle state prompted by the "Press Start" routine.*
 
 ### 2. Active Gameplay
@@ -11,7 +11,7 @@ An embedded systems project featuring a real-time side-scrolling game on a 16x2 
 *Figure 2: Real-time rendering of the hero sprite jumping over an obstacle.*
 
 ### 3. Game Over & Reset
-![End State](Assets/Screenshot%202026-04-28%20062249.png)
+![End State](Assets/Screenshot%202026-04-28%20061741.png)
 *Figure 3: System halt after collision detection, displaying the final score.*
 
 ##  Technical Features
